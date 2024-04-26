@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A senior engineer with 12+ years experience, with a background spanning the full stack of web development; passionate about delivering exceptional UI/UX; eager to apply technical expertise while delivering measurable value to users.
+
 <!--
 **rachelslurs/rachelslurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
