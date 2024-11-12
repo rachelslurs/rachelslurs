@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-A senior engineer with 12+ years experience, with a background spanning the full stack of web development; passionate about delivering exceptional UI/UX; eager to apply technical expertise while delivering measurable value to users.
+I am a Frontend Engineer with over 10 years of experience. My passion lies in bridging the gap between design and development; My greatest joy comes from collaborating closely with designers and product to translate their visions into delightful user experiences that everyone can enjoy.
+
+Projects
+
+- [TidyText: Clean ChatGPT Text for Google Docs and Microsoft Word](https://tidytext.cc)
 
 <!--
 **rachelslurs/rachelslurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
