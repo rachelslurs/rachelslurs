@@ -5,6 +5,7 @@ I am a Frontend Engineer with over 10 years of experience. My passion lies in br
 Projects
 
 - [TidyText: Clean ChatGPT Text for Google Docs and Microsoft Word](https://tidytext.cc)
+- [Recipe Cast: Cast Recipes to your TV](https://recipecast.app)
 
 <!--
 **rachelslurs/rachelslurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
